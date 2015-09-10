@@ -11,7 +11,12 @@
     "authors": [
         {
             "name": "shefphp",
-            "email": "shef@php.org"
+            "email": "hack@shefphp.co.uk"
         }
-    ]
+    ],
+    "autoload": 
+        { "psr-4": 
+            {"ShefPHP\\TwitterApi\\": "src/"}
+         
+    }
 }

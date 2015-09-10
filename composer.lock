@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a3e6f5f63704a4f39a0ac72d95711646",
+    "hash": "774456423a4a1aa075f6d513e8f74964",
     "packages": [
         {
             "name": "j7mbo/twitter-api-php",
