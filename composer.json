@@ -1,0 +1,17 @@
+{
+    "name": "shefphp/twitter_api",
+    "require": {
+        "twig/twig": "^1.21",
+        "j7mbo/twitter-api-php": "^1.0",
+        "symfony/console": "^2.7"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "shefphp",
+            "email": "shef@php.org"
+        }
+    ]
+}
